@@ -2,7 +2,7 @@
 #Final Exam
 
 #set working directory
-setwd('~/MSU/Msc Mathematics/Applied regression analysis/Homework/Final')
+setwd('~/your/working/directory')
 
 #Question 1
 #load data
