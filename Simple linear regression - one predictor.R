@@ -43,7 +43,7 @@ mse <- sse/df
 print(mse)
 
 #Question 3
-setwd('~/MSU/Msc Mathematics/Applied regression analysis/Homework/Assignment 1') 
+setwd('~/your/working/directory')
 
 # read data
 Senic <- read.table(file = 'senic.txt',
