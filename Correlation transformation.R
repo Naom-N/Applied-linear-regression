@@ -1,6 +1,6 @@
 
 # set up work directory
-setwd('~/MSU/Msc Mathematics/Applied regression analysis/Notes/Labs/Four')
+setwd('~/your/working/directory')
 # read data
 kroger <- read.table(file = 'lab4data.txt', header = F,
                      col.names = c('labor','cases','costs','holiday'))
