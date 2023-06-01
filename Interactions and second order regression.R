@@ -1,6 +1,6 @@
 
 #setting a working directory
-setwd('~/MSU/Msc Mathematics/Applied regression analysis/Homework/Hw 7')
+setwd('~/your/working/directory')
 
 #reading data
 copier1 <- read.table(file = 'Q1.20.txt', header = F,
