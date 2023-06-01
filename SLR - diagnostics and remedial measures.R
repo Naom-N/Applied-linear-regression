@@ -1,6 +1,6 @@
 #Homework 3
 #set working directory
-setwd('~/MSU/Msc Mathematics/Applied regression analysis/Homework/Hw 3') 
+setwd('~/your/working/directory')
 
 #read data
 MuscleMass <- read.table(file = 'MuscleMass.txt',
